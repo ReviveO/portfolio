@@ -1,6 +1,6 @@
 # 유호균
-</br>
-> asd
+
+> 소개말
 
 ## :pushpin: Intro
 </br>
