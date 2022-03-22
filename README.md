@@ -27,7 +27,7 @@
 >  
 > - C# / tensorflow / python / Visual Studio / Unity
 > - 역할  
-> 	주차환경 구성
+> 	주차환경 구성  
 >	모델 구현 및 학습
 
 
