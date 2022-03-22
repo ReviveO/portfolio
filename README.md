@@ -21,10 +21,10 @@
 ## :pushpin: Projects
 </br>
 
-1. [Reinforcement Lerning Toolkit with Unity](https://github.com/ReviveO/Graduate-Project)   
+### 1. [Reinforcement Lerning Toolkit with Unity](https://github.com/ReviveO/Graduate-Project)   
 
 > 졸업작품 
-> C# / tensorflow / python / Visual Studio / Unity
+>  C# / tensorflow / python / Visual Studio / Unity
 
 
 	
