@@ -25,7 +25,10 @@
 > - 개요  
 > 	Unity에서 제작한 주차환경으로, 강화학습 과정을 시각적으로 보여주는 프로그램  
 >  
-> C# / tensorflow / python / Visual Studio / Unity
+> - C# / tensorflow / python / Visual Studio / Unity
+> - 역할
+> 	- 주차환경 구성
+>	- 모델 구현 및 학습
 
 
 	
