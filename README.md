@@ -1,6 +1,6 @@
 # 유호균
 </br>
-> 소개말
+> 123
 </br>
 
 ## :pushpin: Intro
