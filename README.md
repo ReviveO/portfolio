@@ -1,6 +1,6 @@
 # 유호균
 </br>
->소개말
+> 소개말
 </br>
 
 ## :pushpin: Intro
@@ -18,6 +18,6 @@
 
 ## :pushpin: Contacts
 ```
--이메일: ghrbs0437@gamil.com</br>
+-이메일: ghrbs0437@gamil.com
 -깃허브: https://github.com/ReviveO/
 ```
