@@ -6,7 +6,6 @@
 </br>
 
 ## :pushpin: Education
-</br>
 
 ### 고등학교
 - 정명고등학교
