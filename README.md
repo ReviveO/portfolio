@@ -14,9 +14,12 @@
 </br>
 
 
+## :pushpin: Others
+
+
 
 ## :pushpin: Contacts
 ```
--이메일: ghrbs0437@gamil.com
+-이메일: ghrbs0437@naver.com
 -깃허브: https://github.com/ReviveO/
 ```
