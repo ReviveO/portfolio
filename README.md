@@ -19,12 +19,11 @@
 
 
 ## :pushpin: Projects
-</br>
-
 ### 1. [Reinforcement Lerning Toolkit with Unity](https://github.com/ReviveO/Graduate-Project)   
 
 > 졸업작품 
->  C# / tensorflow / python / Visual Studio / Unity
+> 개요: Unity에서 제작한 주차환경으로, 강화학습 과정을 시각적으로 보여주는 프로그램 
+> C# / tensorflow / python / Visual Studio / Unity
 
 
 	
