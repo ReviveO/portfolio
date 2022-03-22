@@ -38,8 +38,10 @@
 ## :pushpin: Others
 
 ### 자격증
--정보처리기사
-
+#### 전공
+- 정보처리기사
+#### 어학
+- TOEIC (855)
 
 ## :pushpin: Contacts
 ```
